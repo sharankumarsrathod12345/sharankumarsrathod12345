@@ -35,8 +35,12 @@ An **Advanced Data Analyst & Analytics Engineer** specializing in modern data st
 
 ---
 
+---
+
 ## 📊 Automated System Analytics
+
 ![](https://vercel.app)
+
 ![](https://vercel.app)
 
 ---
