@@ -26,7 +26,7 @@ An **Advanced Data Analyst & Analytics Engineer** specializing in modern data st
 ### 📈 Medallion Warehouse EDA Analytics
 * **Core Skills:** Advanced T-SQL, Star Schema Validation, Analytic Window Aggregations, Cardinality Segmentation.
 * **Summary:** Deployed an advanced data profiling pipeline across a Gold-layer storage presentation schema. Engineered an automated, high-performance executive KPI ledger matrix utilizing complex vertical stacking and tie-safe analytical window rankings to isolate critical business performance cohorts.
-* 🔗 **[Explore Query Architecture](https://github.com)**
+* 🔗 **[Explore Query Architecture](https://github.com/medallion-warehouse-eda-analytics)**
 
 ### 📊 E-Commerce Performance Dashboard
 * **Core Skills:** Advanced Excel Analytics, Custom Slicer Engineering, Interface UI/UX Controls, Enterprise Security.
@@ -39,9 +39,7 @@ An **Advanced Data Analyst & Analytics Engineer** specializing in modern data st
 ![](https://vercel.app)
 ![](https://vercel.app)
 
-
 ---
 
 ## 📈 Connect With Me
 * 📧 **Email**: sharankumarsrathod12345@gmail.com
-
