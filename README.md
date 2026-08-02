@@ -1,29 +1,44 @@
 # Hi there, I'm Sharan Kumar! 👋
 
-## 🚀 Professional Profile
-I am an **Advanced Data Analyst & Analytics Engineer** specializing in end-to-end business intelligence solutions. I bridge the gap between raw data engineering and executive decision-making. I don't just build dashboards—I design the underlying architecture, untangle complex data relationships, and build scalable, secure pipeline systems.
+An **Advanced Data Analyst & Analytics Engineer** specializing in modern data stack architecture and enterprise business intelligence. I specialize in bridging the gap between low-level data engineering and high-level executive decision-making by designing robust schemas, optimizing complex querying layers, and engineering secure, scalable analytics frameworks.
 
 ---
 
-## 🛠️ Technical Superpowers
+## 🛠️ Core Competencies & Ecosystem Matrix
 
-* **Data Engineering & Warehousing**: Medallion Architecture systems (Bronze, Silver, Gold layers), ETL/ELT pipelines, and database optimization.
-* **Advanced SQL & EDA**: Deep exploratory data analysis, complex joins, nested subqueries, and window functions in T-SQL and SQL Server.
-* **Complex Data Modeling**: Resolving high-friction, multi-fact data modeling challenges, intricate relationship hierarchies, and robust Star Schemas in Power BI.
-* **Full-Stack Business Intelligence**: Designing polished, production-grade interactive environments in **Power BI**, **Tableau**, and protected **Excel** dashboards.
-* **Data Science & Scripting**: Utilizing **Python** for programmatic data cleaning, automation scripts, and statistical analytics.
+| Focus Area | Technical Capabilities & Frameworks |
+| :--- | :--- |
+| **Data Warehousing** | Medallion Architecture (`Bronze` ➡️ `Silver` ➡️ `Gold`), Enterprise ETL/ELT Pipelines, Database Optimization |
+| **Advanced Querying** | Exploratory Data Analysis (EDA), Complex Join Logic, Analytic Window Functions, Nested Subqueries |
+| **Data Modeling** | High-Friction Multi-Fact Architectures, Complex Relationship Hierarchies, Star Schema Design |
+| **Business Intelligence** | Production-Grade **Power BI** Environments, Interactive **Tableau** Core Views, Secure **Excel** Dashboards |
+| **Core Scripting** | **T-SQL** (Advanced Dialect Optimization), **SQL Server**, Programmatic **Python** Scripting (Automation & Cleaning) |
 
 ---
 
-## 📁 Featured Portfolio Projects
+## 📁 Featured Enterprise Portfolio Projects
 
-### 🛢️ [Data Warehouse & Analytics System](https://github.com)
-* **Core Skills**: T-SQL (100%), Medallion Architecture, ETL Processes, Data Modeling.
-* **Summary**: A comprehensive data warehousing infrastructure built to ingest, clean, and process multi-tier transactional records into gold-standard analytics views.
+### 🛢️ Data Warehouse & Analytics System
+* **Core Skills:** T-SQL Optimization, Medallion Pipeline Architecture, Relational Schema Engineering, ETL Deployment.
+* **Summary:** Architected an end-to-end relational data warehousing infrastructure built to ingest, sanitize, and transform multi-source operational transactional records into high-performance analytical datasets.
+* 🔗 **[Explore Repository Data Layers](https://github.com)**
 
-### 📊 [E-Commerce Performance Dashboard](https://github.com)
-* **Core Skills**: Advanced Excel, Custom Slicers, UI/UX Control, Data Security.
-* **Summary**: An interactive sales and logistics tracker designed with bulletproof sheet protection and decoupled interface controls, answering critical performance questions.
+### 📈 Medallion Warehouse EDA Analytics
+* **Core Skills:** Advanced T-SQL, Star Schema Validation, Analytic Window Aggregations, Cardinality Segmentation.
+* **Summary:** Deployed an advanced data profiling pipeline across a Gold-layer storage presentation schema. Engineered an automated, high-performance executive KPI ledger matrix utilizing complex vertical stacking and tie-safe analytical window rankings to isolate critical business performance cohorts.
+* 🔗 **[Explore Query Architecture](https://github.com)**
+
+### 📊 E-Commerce Performance Dashboard
+* **Core Skills:** Advanced Excel Analytics, Custom Slicer Engineering, Interface UI/UX Controls, Enterprise Security.
+* **Summary:** Engineered an interactive corporate sales and logistics tracking application built with defensive sheet-level encryption constraints, decoupled interface controls, and deep business performance metric loops.
+* 🔗 **[Explore Application Logic](https://github.com)**
+
+---
+
+## 📊 Automated System Analytics
+![](https://vercel.app)
+![](https://vercel.app)
+
 
 ---
 
