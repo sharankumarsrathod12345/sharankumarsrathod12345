@@ -1,39 +1,29 @@
-# Hi there, I'm Sharan Kumar! 👋
+# Sharan Kumar Rathod
+**Data Analyst | SQL Server · Tableau · Excel**
 
-An **Advanced Data Analyst & Analytics Engineer** specializing in modern data stack architecture and enterprise business intelligence. I specialize in bridging the gap between low-level data engineering and high-level executive decision-making by designing robust schemas, optimizing complex querying layers, and engineering secure, scalable analytics frameworks.
+I build portfolio projects that turn sales, customer, and operational data into clear reports and interactive dashboards. My focus is data preparation, SQL analysis, and business intelligence for sales and operations.
 
----
+My experience in electronics and appliances showroom operations helps me frame practical questions about sales performance, inventory, and customer service.
 
-## 🛠️ Core Competencies & Ecosystem Matrix
+## Featured projects
 
-| Focus Area | Technical Capabilities & Frameworks |
-| :--- | :--- |
-| **Data Warehousing** | Medallion Architecture (`Bronze` ➡️ `Silver` ➡️ `Gold`), Enterprise ETL/ELT Pipelines, Database Optimization |
-| **Advanced Querying** | Exploratory Data Analysis (EDA), Complex Join Logic, Analytic Window Functions, Nested Subqueries |
-| **Data Modeling** | High-Friction Multi-Fact Architectures, Complex Relationship Hierarchies, Star Schema Design |
-| **Business Intelligence** | Production-Grade **Power BI** Environments, Interactive **Tableau** Core Views, Secure **Excel** Dashboards |
-| **Core Scripting** | **T-SQL** (Advanced Dialect Optimization), **SQL Server**, Programmatic **Python** Scripting (Automation & Cleaning) |
+| Project | Business focus | Tools and deliverables |
+| --- | --- | --- |
+| [Sales & Customer Performance Dashboards](https://github.com/sharankumarsrathod12345/sales-customer-performance-dashboards) | Compare annual performance and explore customer purchasing activity | Tableau; two dashboards, workbook, screenshots, and requirements |
+| [E-Commerce Sales & Logistics Dashboard](https://github.com/sharankumarsrathod12345/ecommerce-sales-logistics-dashboard-excel) | Explore orders, sales channels, customer ratings, and delivery times | Excel; dashboard workbook, source workbook, and interaction demo |
+| [SQL Data Warehouse](https://github.com/sharankumarsrathod12345/sql-data-warehouse-project) | Bring CRM and ERP data into a common reporting model | SQL Server; Bronze/Silver/Gold layers, load procedures, and quality-check scripts |
+| [Sales Data Exploration in SQL](https://github.com/sharankumarsrathod12345/medallion-warehouse-eda-analytics) | Explore sales measures, customer segments, and product rankings | T-SQL; discovery, aggregation, joins, and ranking queries |
+| [Global Data Jobs Analysis](https://github.com/sharankumarsrathod12345/global-data-jobs-market-analysis-excel) | Explore historical job postings, salary distributions, and requested skills | Excel; dashboard, analytical report, Power Query, and Power Pivot |
 
----
+## Skills demonstrated
 
-## 📁 Featured Enterprise Portfolio Projects
+- **SQL Server / T-SQL:** joins, aggregations, window functions, views, and stored procedures.
+- **Data preparation:** CSV ingestion, cleansing, standardization, and quality checks.
+- **Data modeling:** fact and dimension views with a star-schema reporting model.
+- **Tableau:** year-over-year comparisons, parameters, calculated fields, and dashboard interactions.
+- **Excel:** formulas, PivotTables, charts, Power Query, and Power Pivot.
 
-### 🛢️ Data Warehouse & Analytics System
-* **Core Skills:** T-SQL Optimization, Medallion Pipeline Architecture, Relational Schema Engineering, ETL Deployment.
-* **Summary:** Architected an end-to-end relational data warehousing infrastructure built to ingest, sanitize, and transform multi-source operational transactional records into high-performance analytical datasets.
-* 🔗 **[Explore Repository Data Layers](https://github.com)**
+## Services I am building toward
 
-### 📈 Medallion Warehouse EDA Analytics
-* **Core Skills:** Advanced T-SQL, Star Schema Validation, Analytic Window Aggregations, Cardinality Segmentation.
-* **Summary:** Deployed an advanced data profiling pipeline across a Gold-layer storage presentation schema. Engineered an automated, high-performance executive KPI ledger matrix utilizing complex vertical stacking and tie-safe analytical window rankings to isolate critical business performance cohorts.
-* 🔗 **[Explore Query Architecture](https://github.com/medallion-warehouse-eda-analytics)**
+Sales and operations dashboards, Excel reporting, SQL reporting queries, and data cleaning. The repositories above are portfolio demonstrations; they do not claim measured client results or production deployments.
 
-### 📊 E-Commerce Performance Dashboard
-* **Core Skills:** Advanced Excel Analytics, Custom Slicer Engineering, Interface UI/UX Controls, Enterprise Security.
-* **Summary:** Engineered an interactive corporate sales and logistics tracking application built with defensive sheet-level encryption constraints, decoupled interface controls, and deep business performance metric loops.
-* 🔗 **[Explore Application Logic](https://github.com)**
-
----
-
-## 📈 Connect With Me
-* 📧 **Email**: sharankumarsrathod12345@gmail.com
