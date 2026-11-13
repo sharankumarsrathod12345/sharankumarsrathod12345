@@ -29,6 +29,7 @@ For a project discussion, share your business question, data sources, desired de
 
 | Project | Focus |
 | --- | --- |
+| [Human Resources Dashboard — Tableau](https://github.com/sharankumarsrathod12345/human-resources-dashboard) | Workforce overview, demographics, compensation, and filterable employee records across two connected dashboards; 8,950 synthetic employee records. [View case study](https://sharankumarsrathod12345.github.io/projects/hr-dashboard/) |
 | [SQL Data Warehouse](https://github.com/sharankumarsrathod12345/sql-data-warehouse-project) | CRM/ERP integration, Bronze/Silver/Gold layers, and a reporting star schema |
 | [Sales Data Exploration in SQL](https://github.com/sharankumarsrathod12345/medallion-warehouse-eda-analytics) | Data discovery, aggregation, joins, customer segments, and product rankings |
 | [Global Data Jobs Analysis](https://github.com/sharankumarsrathod12345/global-data-jobs-market-analysis-excel) | Historical job postings, salary distributions, requested skills, Power Query, and Power Pivot |
